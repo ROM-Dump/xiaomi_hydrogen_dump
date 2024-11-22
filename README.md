@@ -1,0 +1,20 @@
+## hydrogen-user 7.0 NRD90M V10.3.2.0.NBCCNXM release-keys
+- Manufacturer: xiaomi
+- Platform: msm8952
+- Codename: hydrogen
+- Brand: Xiaomi
+- Flavor: hydrogen-user
+- Release Version: 7.0
+- Kernel Version: 
+- Id: NRD90M
+- Incremental: V10.3.2.0.NBCCNXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: false
+- Locale: zh-CN
+- Screen Density: 480
+- Fingerprint: Xiaomi/hydrogen/hydrogen:7.0/NRD90M/V10.3.2.0.NBCCNXM:user/release-keys
+- OTA version: 
+- Branch: hydrogen-user-7.0-NRD90M-V10.3.2.0.NBCCNXM-release-keys
+- Repo: xiaomi_hydrogen_dump
